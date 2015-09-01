@@ -1,6 +1,10 @@
 (ns ^:figwheel-always photo-of-the-day.core
-    (:require
-              [reagent.core :as reagent :refer [atom]]))
+  (:require-macros [cljs.core.async.macros :refer [go]])
+  (:require [reagent.core :as reagent :refer [atom]]
+            [cljs.core.async :refer [<!]]
+            [cljs.pprint :refer [pprint]]
+            [photo-of-the-day.api :as api]
+            ))
 
 (enable-console-print!)
 
@@ -18,10 +22,14 @@
 (reagent/render-component [hello-world]
                           (. js/document (getElementById "app")))
 
+; (go
+;   (pprint (<! (api/get-potd! ["2012" "02"]))))
+; (go
+;   (pprint (<! (api/get-image! "File:20110421_Tbilisi_Georgia_Panoramic.jpg"))))
 
 (defn on-js-reload []
   ;; optionally touch your app-state to force rerendering depending on
   ;; your application
   ;; (swap! app-state update-in [:__figwheel_counter] inc)
-)
+  )
 
