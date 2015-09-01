@@ -60,3 +60,23 @@
        [(http/get (potd-url params)
                   {:with-credentials? false})]))
 
+(defn- surface-page [{:keys [success body] :as res}]
+  (if-not success
+    res
+    (assoc res
+           :body
+           (-> body (get-in [:query :pages]) first second))))
+
+(defn get-image!
+  "Get an image from the commons api."
+  [name]
+  (map surface-page
+       [(http/jsonp (str domain "w/api.php")
+                    {:with-credentials? false
+                     :query-params {:action "query"
+                                    :prop "imageinfo|pageimages"
+                                    :format "json"
+                                    :piprop "thumbnail|name|original"
+                                    :pithumbsize "500"
+                                    :titles name
+                                    }})]))
