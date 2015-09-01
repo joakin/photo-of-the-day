@@ -1,0 +1,543 @@
+[{:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:20110421_Tbilisi_Georgia_Panoramic.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/20110421_Tbilisi_Georgia_Panoramic.jpg/300px-20110421_Tbilisi_Georgia_Panoramic.jpg",
+   :width 300,
+   :height 142},
+  :description "Panoramic view of Tbilisi, Georgia."}
+ {:type :video,
+  :url "https://commons.wikimedia.org/wiki/File:Goetheanum.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Goetheanum.ogv/300px--Goetheanum.ogv.jpg",
+   :width 300,
+   :height 169},
+  :description "thumbtime=0:43"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:20080406165033!V-22_Osprey_refueling_edit1.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/20080406165033%21V…refueling_edit1.jpg/300px-20080406165033%21V-22_Osprey_refueling_edit1.jpg",
+   :width 300,
+   :height 184},
+  :description
+  "Crew members refuel an A V-22 Osprey vertical-lift aircraft before a night mission in central Iraq."}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Phase_and_libration_of_the_Moon_at_hourly_intervals_(2012).ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Phase_and_libratio…px--Phase_and_libration_of_the_Moon_at_hourly_intervals_%282012%29.ogv.jpg",
+   :width 300,
+   :height 300},
+  :description
+  "Phase and libration of the Moon at hourly intervals, for the whole year 2012.‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Anemone_purple_anemonefish.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Anemone_purple_anemonefish.jpg/300px-Anemone_purple_anemonefish.jpg",
+   :width 300,
+   :height 375},
+  :description
+  "Purple anemone (Heteractis magnifica) and resident anemonefish (Amphiprion ocellaris) (clownfish) in East Timor."}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Avideo_on_Making_of_Murukku.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Avideo_on_Making_of_Murukku.ogv/300px--Avideo_on_Making_of_Murukku.ogv.jpg",
+   :width 300,
+   :height 169},
+  :description "A video on Making of Murukku‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Marek_Szufa_Jenny_(lighten).jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Marek_Szufa_Jenny_%28lighten%29.jpg/300px-Marek_Szufa_Jenny_%28lighten%29.jpg",
+   :width 300,
+   :height 176},
+  :description
+  "Marek Szufa in his replica of a Curtiss JN-4. On the same day, in a different plane, the pilot was fatally injured upon striking the river. He was rushed to hospital, where he died in ER."}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:The_burning_of_the_ritual_hut_-_Transkei.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/The_burning_of_the…hut_-_Transkei.ogv/300px--The_burning_of_the_ritual_hut_-_Transkei.ogv.jpg",
+   :width 300,
+   :height 225},
+  :description
+  "South Africa: The burning of the ritual hut after the young boys have left it‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Sarcophaga_ruficornis_fleshfly_mating.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sarcophaga_ruficornis_fleshfly_mating.jpg/300px-Sarcophaga_ruficornis_fleshfly_mating.jpg",
+   :width 300,
+   :height 200},
+  :description
+  "Sarcophaga (Liopygia) ruficornis flesh-fly mating. Pictured in Dar es salaam, Tanzania."}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Siona_lineata_-_Wollenberg_2011.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Siona_lineata_-_Wollenberg_2011.ogv/300px--Siona_lineata_-_Wollenberg_2011.ogv.jpg",
+   :width 300,
+   :height 169},
+  :description
+  "Black-veined Moth (Siona lineata) is a European member of the family Geometridae.‎"}
+ {:type :drawing,
+  :url "https://commons.wikimedia.org/wiki/File:No_image.svg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/No_image.svg/300px-No_image.svg.png",
+   :width 300,
+   :height 300},
+  :description
+  "Orthodox church of Saint Blessed Xenia of Petersburg in Vinnitsa, Ukraine. St.Xenia was canonized on February 6, 1988. The Southern Bug river bank."}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:20110812_Nomad_Horse_Racing_Zhanzong_Tibet.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/20110812_Nomad_Hor…anzong_Tibet.ogv/300px--20110812_Nomad_Horse_Racing_Zhanzong_Tibet.ogv.jpg",
+   :width 300,
+   :height 169},
+  :description "Nomad horse riding, Zhanzong, Tibet, China.‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Canis_lupus_arctos_(Pocock,_1935).jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Canis_lupus_arctos_%28Pocock%2C_1935%29.jpg/300px-Canis_lupus_arctos_%28Pocock%2C_1935%29.jpg",
+   :width 300,
+   :height 192},
+  :description
+  "Arctic Wolf in the Wisentgehege Springe game park near Springe, Hanover, Germany."}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Vermin_Supreme_2012_video.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Vermin_Supreme_2012_video.ogv/300px--Vermin_Supreme_2012_video.ogv.jpg",
+   :width 300,
+   :height 225},
+  :description
+  "Video of Vermin Supreme working the crowds during the New Hampshire primary‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Green_Flag_West_11-08.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Green_Flag_West_11-08.jpg/300px-Green_Flag_West_11-08.jpg",
+   :width 300,
+   :height 200},
+  :description
+  "A U.S. Air Force F-15 Strike Eagle with the 335th Fighter Squadron, Seymour Johnson Air Force Base, N.C in Nevada, US"}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Beaches_of_Netanya_P1080893.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Beaches_of_Netanya_P1080893.ogv/300px--Beaches_of_Netanya_P1080893.ogv.jpg",
+   :width 300,
+   :height 169},
+  :description "Beaches of Netanya, Israel.‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Saturn's_Rings_in_Ultraviolet_Light.png",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Saturn%27s_Rings_in_Ultraviolet_Light.png/300px-Saturn%27s_Rings_in_Ultraviolet_Light.png",
+   :width 300,
+   :height 140},
+  :description "Saturn's Rings in Ultraviolet Light"}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:A_action_of_coconut_grating.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/A_action_of_coconut_grating.ogv/300px--A_action_of_coconut_grating.ogv.jpg",
+   :width 300,
+   :height 169},
+  :description "thumbtime=14.8"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Flea_Scanning_Electron_Micrograph_False_Color.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flea_Scanning_Elec…ph_False_Color.jpg/300px-Flea_Scanning_Electron_Micrograph_False_Color.jpg",
+   :width 300,
+   :height 387},
+  :description
+  "Scanning electron micrograph of a flea with false colors."}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Mali_Village_Dance.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Mali_Village_Dance.ogv/300px--Mali_Village_Dance.ogv.jpg",
+   :width 300,
+   :height 225},
+  :description "thumbtime=22"}
+ {:type :bitmap,
+  :url "https://commons.wikimedia.org/wiki/File:Saami_Family_1900.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Saami_Family_1900.jpg/300px-Saami_Family_1900.jpg",
+   :width 300,
+   :height 220},
+  :description "A Sami family in Norway around 1900."}
+ {:type :video,
+  :url "https://commons.wikimedia.org/wiki/File:Pipe_organ_tuning.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pipe_organ_tuning.ogv/300px--Pipe_organ_tuning.ogv.jpg",
+   :width 300,
+   :height 169},
+  :description
+  "Pipe organ tuning in the church of Notre-Dame de l'Assomption de Passy in Paris, France.‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Polygonia_c-album_qtl2.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Polygonia_c-album_qtl2.jpg/300px-Polygonia_c-album_qtl2.jpg",
+   :width 300,
+   :height 213},
+  :description "Comma (Polygonia c-album) in Hamm, Germany."}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:People_celebrating_the_fall_of_Mubarak.ogg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/People_celebrating…_fall_of_Mubarak.ogg/300px--People_celebrating_the_fall_of_Mubarak.ogg.jpg",
+   :width 300,
+   :height 169},
+  :description
+  "People celebrating the fall of Hosni Mubarak on Talaat Harb, Cairo.‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:2010_mavericks_competition_edit1.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2010_mavericks_competition_edit1.jpg/300px-2010_mavericks_competition_edit1.jpg",
+   :width 300,
+   :height 198},
+  :description "2010 Mavericks surfing competition"}
+ {:type :audio,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Josh_Woodward_-_Swansong.ogg",
+  :thumbnail
+  {:src
+   "http://commons.wikimedia.org/static/1.26wmf18/resources/assets/file-type-icons/fileicon-ogg.png",
+   :width 220,
+   :height 23},
+  :description
+  "\"Swansong\" from the 2009 album Breadcrumbs, composed and sung by Josh Woodward, winner of the Ubuntu Free Culture Showcase 10.10.‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Cistothorus_palustris_CT.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cistothorus_palustris_CT.jpg/300px-Cistothorus_palustris_CT.jpg",
+   :width 300,
+   :height 300},
+  :description
+  "Marsh Wren (Cistothorus palustris), Cap Tourmente National Wildlife Area, Quebec, Canada"}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Short_axis_anonymous.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Short_axis_anonymous.ogv/300px--Short_axis_anonymous.ogv.jpg",
+   :width 300,
+   :height 225},
+  :description "Ultrasound of a heart (3.3s).‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Post_Tower_Bonn_sunset.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Post_Tower_Bonn_sunset.jpg/300px-Post_Tower_Bonn_sunset.jpg",
+   :width 300,
+   :height 199},
+  :description "The Post Tower in Bonn during sunset"}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:DactylopterusVolitans.ogg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/DactylopterusVolitans.ogg/300px--DactylopterusVolitans.ogg.jpg",
+   :width 300,
+   :height 225},
+  :description
+  "The flying gurnard, Dactylopterus volitans, is a fish of tropical to warm temperate waters on both sides of the Atlantic‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Metz_Porte_des_Allemands_R07.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Metz_Porte_des_Allemands_R07.jpg/300px-Metz_Porte_des_Allemands_R07.jpg",
+   :width 300,
+   :height 192},
+  :description
+  "The Porte des Allemands (\"German gate\"), a fortified medieval city gate in Metz, in northeastern France."}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:001miting10dek2011Moskva.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/001miting10dek2011Moskva.ogv/300px--001miting10dek2011Moskva.ogv.jpg",
+   :width 300,
+   :height 225},
+  :description
+  "Anti-Putin rally against fraud in parliamentary elections, for holding new elections with all unregistered parties participating which became the biggest demonstration in Russia in more than a decade. Moscow, Bolotnaya square, December 10, 2011.‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Panorama_La_D%C3%A9fense.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Panorama_La_D%C3%A9fense.jpg/300px-Panorama_La_D%C3%A9fense.jpg",
+   :width 300,
+   :height 50},
+  :description
+  "The Paris business district of La Défense at night as seen from the Tour Défense 2000."}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Sausage_production_italy_02.ogg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sausage_production_italy_02.ogg/300px--Sausage_production_italy_02.ogg.jpg",
+   :width 300,
+   :height 225},
+  :description "Traditional sausage making - stanching, Italy 2008‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Giraffes_Mikumi_National_Park.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Giraffes_Mikumi_National_Park.jpg/300px-Giraffes_Mikumi_National_Park.jpg",
+   :width 300,
+   :height 394},
+  :description
+  "A pair of Giraffes in Mikumi National Park in Tanzania."}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Agelena_labyrinthica.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Agelena_labyrinthica.ogv/300px--Agelena_labyrinthica.ogv.jpg",
+   :width 300,
+   :height 169},
+  :description
+  "Agelena labyrinthica is a widespread funnel-web spider species in Europe‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Chevaux_estive_Pyrenees.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Chevaux_estive_Pyrenees.jpg/300px-Chevaux_estive_Pyrenees.jpg",
+   :width 300,
+   :height 199},
+  :description
+  "Herd of horses on summer mountain pasture in the Spanish Pyrenees, near the lake of Estaens (Ibón de Estanés) near the border to France."}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:D%C3%B6mitz_Eisschollen_Elbe_2012-02-05.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/D%C3%B6mitz_Eissch…Elbe_2012-02-05.ogv/300px--D%C3%B6mitz_Eisschollen_Elbe_2012-02-05.ogv.jpg",
+   :width 300,
+   :height 169},
+  :description "Drift ice at Elbe river near Dömitz, Germany.‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Taro_leaf_underside,_backlit_by_sun_-_edit.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Taro_leaf_undersid…t_by_sun_-_edit.jpg/300px-Taro_leaf_underside%2C_backlit_by_sun_-_edit.jpg",
+   :width 300,
+   :height 219},
+  :description
+  "Underside of taro leaf (Colocasia esculenta), backlit by sunlight. Picture taken in a backyard in Auckland, New Zealand."}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Shrinking_Aral_Sea.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Shrinking_Aral_Sea.ogv/300px--Shrinking_Aral_Sea.ogv.jpg",
+   :width 300,
+   :height 169},
+  :description
+  "Satellite images show the changing water levels in the Aral Sea from 2000 through 2011.‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Baltimore_Inner_Harbor_Skyline_Night_Panorama.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Baltimore_Inner_Ha…Night_Panorama.jpg/300px-Baltimore_Inner_Harbor_Skyline_Night_Panorama.jpg",
+   :width 300,
+   :height 73},
+  :description
+  "A four segment panorama of Baltimore's Inner Harbor skyline taken at night from Federal Hill."}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:%D0%93%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/%D0%93%D0%BE%D1%80…%D1%82.ogv/300px--%D0%93%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82.ogv.jpg",
+   :width 300,
+   :height 169},
+  :description "Commercial white water rafting on the Chuya River‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Qantas_Boeing_747-400_VH-OJU_over_Starbeyevo_Kustov.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Qantas_Boeing_747-…o_Kustov.jpg/300px-Qantas_Boeing_747-400_VH-OJU_over_Starbeyevo_Kustov.jpg",
+   :width 300,
+   :height 200},
+  :description
+  "A Qantas Boeing 747-400 flying at approximately 11,000 metres viewed from the ground at Starbeyevo in Moscow."}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:A_bamboo_basket_making_depiction_video.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/A_bamboo_basket_ma…_depiction_video.ogv/300px--A_bamboo_basket_making_depiction_video.ogv.jpg",
+   :width 300,
+   :height 169},
+  :description "Bamboo basket making in India‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Black-Tailed_Prairie_Dog.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Black-Tailed_Prairie_Dog.jpg/300px-Black-Tailed_Prairie_Dog.jpg",
+   :width 300,
+   :height 400},
+  :description
+  "Black-tailed prairie dog (Cynomys ludovicianus) at Smithsonian National Zoological Park in Washington, D.C., USA."}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Coreopsis_July_2011-2.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Heliopsis_July_2011-2.jpg/300px-Heliopsis_July_2011-2.jpg",
+   :width 300,
+   :height 195},
+  :description
+  "Large-flowered tickseed (Coreopsis grandiflora) at Jardin des Plantes in Paris, France."}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Central_Park_children_sledding_2012-1-21_1536_W64_jeh.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Central_Park_child…h.ogv/300px--Central_Park_children_sledding_2012-1-21_1536_W64_jeh.ogv.jpg",
+   :width 300,
+   :height 225},
+  :description "Children sledding in Central Park‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Emily_Osment_2010_2.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Emily_Osment_2010_2.jpg/300px-Emily_Osment_2010_2.jpg",
+   :width 300,
+   :height 198},
+  :description
+  "U.S. actress and singer Emily Osment performing at a concert in Boston in May 2010."}
+ {:type :drawing,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Scientist-meets-publisher-English.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ImageNA.svg/300px-ImageNA.svg.png",
+   :width 300,
+   :height 300},
+  :description "Template:Motd/2012-02-25 (en)‎"}
+ {:type :bitmap,
+  :url "https://commons.wikimedia.org/wiki/File:Cucurbita_2011_G1.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Cucurbita_2011_G1.jpg/300px-Cucurbita_2011_G1.jpg",
+   :width 300,
+   :height 200},
+  :description "Squashes and pumpkins."}
+ {:type :video,
+  :url "https://commons.wikimedia.org/wiki/File:Mars_rover.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mars_rover.ogv/300px--Mars_rover.ogv.jpg",
+   :width 300,
+   :height 226},
+  :description
+  "During the three-year trek of NASA's Mars Rover Opportunity from Victoria crater to Endeavour crater, rover planners captured a horizon photograph at the end of each drive. 309 images taken during the 13-mile journey appear in this video. Audio comes from rover accelerometer data adjusted to an audible frequency. It indicates vibrations of the rover: louder on rocky surfaces, quieter on sandy ground.‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Viscum_album_section_2011_G1.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Viscum_album_section_2011_G1.jpg/300px-Viscum_album_section_2011_G1.jpg",
+   :width 300,
+   :height 600},
+  :description
+  "European Mistletoe (Viscum album). Cross-section on a branch of a Hybrid Black Poplar (Populus × canadensis). Ukraine."}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Superman_4_The_Arctic_Giant_1942.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Superman_4_The_Arctic_Giant_1942.ogv/300px--Superman_4_The_Arctic_Giant_1942.ogv.jpg",
+   :width 300,
+   :height 225},
+  :description "thumbtime=0"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Portrait_of_Yellow-headed_Amazon_Parrot.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Portrait_of_Yellow-headed_Amazon_Parrot.jpg/300px-Portrait_of_Yellow-headed_Amazon_Parrot.jpg",
+   :width 300,
+   :height 400},
+  :description
+  "Portrait of Yellow-headed Amazon Parrot (Amazona oratrix) taken at the National Aquarium in Baltimore, USA."}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:James_Bond_Island_P1120312.ogv",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/James_Bond_Island_P1120312.ogv/300px--James_Bond_Island_P1120312.ogv.jpg",
+   :width 300,
+   :height 169},
+  :description
+  "Khao Ta-Pu - James Bond Island, Phang Nga Bay, Thailand.‎"}
+ {:type :bitmap,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Aeroflot_Airbus_A330_Kustov.jpg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Aeroflot_Airbus_A330_Kustov.jpg/300px-Aeroflot_Airbus_A330_Kustov.jpg",
+   :width 300,
+   :height 200},
+  :description
+  "An Aeroflot Airbus A330-200 climbs out of Sheremetyevo International Airport after take-off."}
+ {:type :video,
+  :url
+  "https://commons.wikimedia.org/wiki/File:Shimmering_bees_drive_hornet_away.ogg",
+  :thumbnail
+  {:src
+   "http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Shimmering_bees_drive_hornet_away.ogg/300px--Shimmering_bees_drive_hornet_away.ogg.jpg",
+   :width 300,
+   :height 180},
+  :description
+  "Mexican waves performed by Asian Giant Honeybees drive hornets away from the nest.‎"}]
