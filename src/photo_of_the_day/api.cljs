@@ -49,7 +49,7 @@
       (let [figures (seq (.querySelectorAll dom "figure"))
             imgs (mapv figure->img figures)]
         ; (pprint (group-by :type imgs))
-        imgs))))
+        (assoc res :body imgs)))))
 
 (defn get-potd!
   "Gets a POTD page.
