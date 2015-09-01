@@ -12,14 +12,14 @@
 
 (def domain "https://commons.wikimedia.org/")
 
-(defn potd-url
+(defn- potd-url
   "Gets a POTD url, params should be an array of [YEAR MONTH DAY?]"
   [params]
   (str domain "api/rest_v1/page/html/"
        (js/encodeURIComponent
          (str "Template:Potd/" (join "-" params)))))
 
-(defn figure->img
+(defn- figure->img
   "Converts a parsoid-dom figure to a map"
   [figure]
   (let [a (.querySelector figure "a")
@@ -37,7 +37,7 @@
                  :height (.-height img)}
      :description (.-textContent cap)}))
 
-(defn clean-up
+(defn- clean-up
   "If the request is successful, get structured data from the payload.
 
   Else just return the failed response"
@@ -51,7 +51,7 @@
         ; (pprint (group-by :type imgs))
         imgs))))
 
-(defn get!
+(defn get-potd!
   "Gets a POTD page.
 
   Params should be an array of [YEAR MONTH DAY?]"
