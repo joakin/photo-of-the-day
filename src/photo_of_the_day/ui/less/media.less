@@ -9,9 +9,10 @@
   background-color: white;
   text-decoration: none;
   margin-bottom: 2em;
-  padding: 2em;
+  padding: 1em;
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
   .larger-than-tablet({
+    padding: 2em;
     flex-direction: row;
   });
 
@@ -24,7 +25,10 @@
     :first-child { margin-top: 0; }
     :last-child { margin-bottom: 0; }
   }
-  .Media-image img {}
+  .Media-image {
+    min-width: 300px;
+    img { max-width: 100%; }
+  }
   .Media-title, .Media-description {}
   .Media-title {}
   .Media-description { font-style: italic; }
