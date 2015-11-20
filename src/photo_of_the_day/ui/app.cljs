@@ -3,7 +3,7 @@
 (defn loader []
   [:div.sk-cube-grid.Loader
    (for [i (range 1 10)]
-    [:div {:className (str "sk-cube sk-cube" i)}])
+    [:div {:key i :className (str "sk-cube sk-cube" i)}])
     ])
 
 
