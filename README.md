@@ -1,5 +1,8 @@
 # photo-of-the-day
 
+[Live demo at
+chimeces.com/photo-of-the-day](//chimeces.com/photo-of-the-day)
+
 ## Setup
 
 Run `npm install` to get the npm deps installed.
