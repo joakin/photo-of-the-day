@@ -1,0 +1,32 @@
+@import './mixins.less';
+
+.Media {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  word-break: break-word;
+  color: #333;
+  background-color: white;
+  text-decoration: none;
+  margin-bottom: 2em;
+  padding: 2em;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+  .larger-than-tablet({
+    flex-direction: row;
+  });
+
+  .Media-data {
+    text-align: left;
+    padding-top: 1em;
+    .larger-than-tablet({
+      padding: 0 0 0 2em;
+    });
+    :first-child { margin-top: 0; }
+    :last-child { margin-bottom: 0; }
+  }
+  .Media-image img {}
+  .Media-title, .Media-description {}
+  .Media-title {}
+  .Media-description { font-style: italic; }
+}
+
