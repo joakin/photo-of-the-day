@@ -21,7 +21,7 @@
      [:h1.App-title "Wikipedia Commons"]
      [:h4.App-subtitle "Photos of the month"]
      [:div.App-photos
-      (if-not false
+      (if-not current-month
         [loader]
         (for [img current-month #_(filter #(= (:type %) :bitmap) current-month)]
           [:div {:key (:name img)}
